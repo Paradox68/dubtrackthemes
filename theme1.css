@@ -41,15 +41,15 @@ body, button, input, select, textarea {
 }
 
 a {
-  color: #00e;
+  color: #FF0000;
 }
 
 a:visited {
-  color: #551a8b;
+  color: #FF0000;
 }
 
 a:hover {
-  color: #06e;
+  color: #FF0000;
 }
 
 a:focus {
@@ -86,14 +86,14 @@ hr {
 }
 
 ins {
-  background: #ff9;
+  background: #FF0000;
   color: #000;
   text-decoration: none;
 }
 
 mark {
-  background: #ff0;
-  color: #000;
+  background: #FF0000;
+  color: #FF0000;
   font-style: italic;
   font-weight: bold;
 }
