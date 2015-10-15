@@ -128,12 +128,12 @@ a:hover, a:visited {
 }
 
 #main_player .player_container .playerElement_soundcloud {
-	background: url(http://static.fjcdn.com/pictures/Rare_6811be_5507614.jpg);
+	background: url("http://i.imgur.com/pqhKbO0.png");
 }
 
 #main_player .player_container {
     height: 25.45em;
-    background-image: url(http://i.imgur.com/1AnK0eI.png);
+    background-image: url("http://i.imgur.com/1AnK0eI.png");
 }
 #main_player .player_container .skip-el {
     background: #FF3333;
