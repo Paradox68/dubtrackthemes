@@ -126,6 +126,11 @@ a:hover, a:visited {
     background: #FF3333;
     opacity: 0.75;
 }
+
+#main_player .player_container .playerElement_soundcloud {
+	background: url(http://static.fjcdn.com/pictures/Rare_6811be_5507614.jpg);
+}
+
 #main_player .player_container {
     height: 25.45em;
     background-image: url(http://i.imgur.com/1AnK0eI.png);
@@ -168,10 +173,6 @@ button:hover {
     -moz-box-shadow: inset 0 -2px #FF3333;
     -webkit-box-shadow: inset 0 -2px #FF3333;
     box-shadow: inset 0 -2px #FF3333;
-}
-
-.Dubtrack.fm {
-	url("http://motherboard-images.vice.com/content-images/article/20733/1428578997900669.jpg?crop=1xw:0.5782710280373832xh;*,*&resize=700:*&output-format=jpeg&output-quality=90")
 }
 
 .comments-main .comments-list .comment-item header a {
@@ -475,3 +476,4 @@ ul.avatar-list li.downdub {
 .requestControl .requestGo {
     background: #FF3333 !important;
 }
+
