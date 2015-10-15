@@ -367,13 +367,16 @@ ul.avatar-list li.downdub {
 #browser .loading, #browser .clear-queue-browser-bth {
     background: #FF3333;
 }
+#browser .ps-scrollbar-x-rail {
+	width: 300;
+}
 #browser .content-videos ul.browserPlaylistItems>li {
-    border-bottom: 1px #202020 solid;
+    border-bottom: 1px #FF3300 solid;
     background: #111;
     opacity: 0.85;
 }
 #browser .content-videos ul.browserPlaylistItems>li span.timeDisplay {
-    color: #000;
+    color: #0F0F0A;
     background: #FF3333;
     opacity: 1;
 }
