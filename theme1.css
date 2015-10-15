@@ -128,7 +128,7 @@ a:hover, a:visited {
 }
 #main_player .player_container {
     height: 25.45em;
-    background-image: url(https://raw.githubusercontent.com/PossiblyKris/DubtrackCSS/master/assets/bykris.png);
+    background-image: url(http://i.imgur.com/1AnK0eI.png);
 }
 #main_player .player_container .skip-el {
     background: #FF3333;
@@ -216,7 +216,7 @@ button:hover {
     opacity: 0.75;
 }
 #chat .chat-container ul.chat-main li.chat-system-loading {
-	color: #835BC2;
+	color: #FF3300;
 }
 #chat .chat-container ul.chat-main li.system {
     color: #C42E3B;
