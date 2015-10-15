@@ -8,6 +8,9 @@
 #main-loading {
     background: #FF3333;
 }
+.userCustomB {
+	background: url("http://i.imgur.com/tn9fgzj.png");
+}
 a:hover, a:visited {
     color: #FF3333;
 }
